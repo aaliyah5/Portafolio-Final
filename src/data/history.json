@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Estudiante Universitaria",
+    "organisation": "I.U Pascual Bravo",
+    "startDate": "Febrero, 2023",
+    "endDate": "Presente(5 semestre)",
+    "experiences": ["React", "C#", "Js", "Sql"],
+    "imageSrc": "history/"
+  },
+  {
+    "role": "Estudiante Media Tecnica",
+    "organisation": "Colegio Francisco Antonio Zea",
+    "startDate": "Enero, 2021",
+    "endDate": "Noviembre, 2022",
+    "experiences": ["Html", "Css" , "C#" , "Js"],
+    "imageSrc": "history/"
+  }
+]

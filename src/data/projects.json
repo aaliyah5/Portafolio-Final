@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Habilidades Blandas",
+    "imageSrc": "projects/project.png",
+    "description":"",
+    "skills": ["Creatividad", "Trabajo en equipo", "Adaptabilidad"],
+    "Innovación": "",
+    "source": ""
+  },
+  {
+    "title": "Herramientas",
+    "imageSrc": "projects/project.png",
+    "description":"",
+    "skills": ["Git & GitHub", "Visual Studio Code", "Visual Studio 2022"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,18 @@
+:root {
+  /* Colours */
+  /* --color-text: #fff;
+  --color-primary: #576cbc;
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+*/
+
+
+--color-text: #fff;
+--color-primary: #a459d1; /* Morado principal */
+--color-secondary: #6b21a8; /* Morado profundo */
+--color-dark: #3b065e; /* Morado oscuro */
+--color-bg: #1d033b; /* Fondo en tonos oscuros */
+
+
+}
